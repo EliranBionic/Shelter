@@ -5,6 +5,8 @@ body{
 }
 
 ul{
-    color: aqua;
-    text-align: center;
+    color:darkmagenta;
+    font-weight: bold;
+    text-align: left;
+    font-size: x-large;
 }
